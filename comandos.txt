@@ -1,0 +1,3 @@
+para ejecutar debe escribir el comando:
+
+xdg-open index.html
